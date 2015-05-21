@@ -1,2 +1,2 @@
-# video-redux
-New video editor Zach Long walks us through making great video.
+# Video-redux
+Video assignment editor Zach Long talks about some simple methods to develop videos within the world of newspapers. The ability to make something from nothing often yields the greatest results.
